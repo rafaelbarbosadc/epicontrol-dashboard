@@ -8,7 +8,6 @@ import {
   Tooltip,
   ResponsiveContainer,
   Legend,
-  Line,
 } from "recharts";
 
 function Home() {
